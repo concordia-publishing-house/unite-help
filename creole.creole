@@ -1,7 +1,7 @@
-== Testing Creole
+==Testing Creole
 
-=== Embedded Image:  {{test.jpg|Testing Image}}
+===Embedded Image:  {{test.jpg|Testing Image}}
 
-=== Inserted Link:  [[Link Test|http://troll.me/images/the-chuck-norris/i-dont-always-test-my-code-but-when-i-do-i-do-in-production.jpg]]
+===Inserted Link:  [[Link Test|http://troll.me/images/the-chuck-norris/i-dont-always-test-my-code-but-when-i-do-i-do-in-production.jpg]]
 
-=== Embedded Video:  {{http://youtu.be/HXjDMa54L0s|Video Test}}
+===Embedded Video:  {{http://youtu.be/HXjDMa54L0s|Video Test}}
