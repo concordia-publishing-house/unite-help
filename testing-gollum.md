@@ -1,1 +1,0 @@
-This is a good video!  ![Video Test](http://youtu.be/hyaDYqitp78)
