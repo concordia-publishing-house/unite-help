@@ -1,0 +1,9 @@
+<h1>Testing Textile</h1>
+
+<h2>Insert Image:</h2>  !http://troll.me/images/the-chuck-norris/i-dont-always-test-my-code-but-when-i-do-i-do-in-production.jpg(Image Test)!
+
+<h2>Insert Link:</h2>  "http://troll.me/images/the-chuck-norris/i-dont-always-test-my-code-but-when-i-do-i-do-in-production.jpg":Link Test
+
+<h2>Insert Video:</h2>  !http://youtu.be/HXjDMa54L0s(Video Test)!
+<h2>Insert Video Link:</h2>  "http://youtu.be/HXjDMa54L0s":Video Link Test
+
