@@ -1,5 +1,6 @@
-<h1>Yeah a HomePage!  W00T!</h1>
+<h1>Church 360 Unite Help System</h1>
 
-<h2>We are on our way!</h2>
+<h2>Welcome Tab</h2>
+<h3>Sermons Tab</h3>
 
 <h3>Look at us go!<h3>
