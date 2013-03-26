@@ -13,7 +13,7 @@
 (Insert Invite Member Window)
 
  * Options on this page include:
-  * List - will list your current users          
+  * List - will list your current users
   * Invite - allows you to invite members
      * We can invite members from Church 360 (only those who have email addresses)
      * We also have the option to manually invite
