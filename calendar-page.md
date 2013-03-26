@@ -2,11 +2,11 @@
 
 (Insert Tool Bar Image)
 
-     * The Calendar Page displays any events that you have created within 360 Unite or events from your Church 360 Members
+   * The Calendar Page displays any events that you have created within 360 Unite or events from your Church 360 Members
 
 (Insert Calendar Image)
 
-     * Clicking on the Welcome Link will take you to your Welcome Page
+   * Clicking on the Welcome Link will take you to your Welcome Page
      * Clicking on the Settings Link will take you to the Settings page
           * From here you will be able to select which Calendars you want to display.
 (Image of Settings Page)
