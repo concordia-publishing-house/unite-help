@@ -16,6 +16,6 @@
   * List - will list your current users
   * Invite - allows you to invite members
      * We can invite members from Church 360 (only those who have email addresses)
-     * We also have the option to manually invite
+     * We also have the option to manually invite users
          * To do this we type in the users first name, last name , and email address.
  * Once we have selected all the individuals that we want to invite we click on the Invite Button.
