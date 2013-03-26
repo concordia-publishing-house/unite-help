@@ -1,6 +1,6 @@
--Groups
+-Groups Page
 (Insert tool bar image)
-     * The Groups page displays any groups that you have created
+   * The Groups page displays any groups that you have created
 (Insert Groups Image)
      * Clicking on the Welcome Link will take you to the Welcome Page
      * Clicking on Create a new group will open a new window to allow you to create a new group.
