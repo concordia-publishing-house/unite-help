@@ -1,5 +1,6 @@
--Groups Page
+-Groups
 (Insert tool bar image)
+
    * The Groups page displays any groups that you have created
 (Insert Groups Image)
      * Clicking on the Welcome Link will take you to the Welcome Page
