@@ -19,5 +19,3 @@
                * We also have the option to manually invite
                     * To do this we type in the users first name, last name , and email address.
      * Once we have selected all the individuals that we want to invite we click on the Invite Button.
-          
-     
