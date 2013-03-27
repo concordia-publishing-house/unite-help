@@ -1,6 +1,6 @@
 - Welcome Page
 
-![Alt text](welcome.jpg "Optional title")
+(Insert Welcome page Image)
 
 * Unite Home Page
 * Displays the following:
