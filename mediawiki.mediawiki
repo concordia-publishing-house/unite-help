@@ -1,3 +1,0 @@
-<h1>Testing Mediawiki</h1>
-
-<h2>Insert Photo</h2>  [[image:test.jpg]]
