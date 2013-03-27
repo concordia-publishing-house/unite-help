@@ -1,6 +1,7 @@
 - Calendar Page
 
-(Insert Tool Bar Image)
+
+
 ![Alt text](http://unite-production.s3.amazonaws.com/tenants/christcommunitychurch/pictures/461/iStock_000011628228Small.jpg "Optional title")
 
 
