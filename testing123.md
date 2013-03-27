@@ -1,1 +1,1 @@
-![testin123123123](cphepdev:4567/testing123.jpg)
+![testing123123123](testing123123123.jpg)
