@@ -1,6 +1,6 @@
 - Welcome Page
 
-(Insert toolbar Image)
+(Insert Welcome Image)
 
 * Unite Home Page
 * Displays the following:
@@ -11,7 +11,6 @@
      * Email - Displays your church's email address
      * Address - Displays your church's street address (Includes Google Map Link)
 
-(Insert Image Welcome Page Screen Shot)   
 
 
  
