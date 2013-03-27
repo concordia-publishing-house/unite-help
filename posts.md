@@ -9,8 +9,6 @@
           * Published - viewable to everyone
      * Author - person who created the post
      * Date Published - date post was created
-
-
 * Actions for selected posts
      * Publish - makes the page viewable
      * Make Draft - changes the posts status to draft
