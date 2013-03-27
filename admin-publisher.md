@@ -23,11 +23,11 @@
    * To add a new page we click on the Add Page Icon
        * This will open a new window
       * We have a few options to choose from:
-        * Blank Page - this is a blank page with no formatting set
-        * Feed Page -  used for blogs
-        * About Page - creates an about you page with some basic formatting
-* Once we have selected our page we click on Create Page to create that new page.
-* Once that is done it will take us to our newly created page to for editing. (Note: Edit Mode must be turned On)
+         * Blank Page - this is a blank page with no formatting set
+         * Feed Page -  used for blogs
+         * About Page - creates an about you page with some basic formatting
+   * Once we have selected our page we click on Create Page to create that new page.
+   * Once that is done it will take us to our newly created page to for editing. (Note: Edit Mode must be turned On)
 
 (Insert Image of New Page)
 
@@ -40,7 +40,7 @@
 
 (Insert Edit Page Image)
 
-   * URL - this allows us to change the name of the page (Not the URL)
-   * Draft -  the page will not be available for others to view it while it is in draft status
-   * Published - publishes the page so that others can view it
-* Once finished click on save changes to save the new page
+  * URL - this allows us to change the name of the page (Not the URL)
+  * Draft -  the page will not be available for others to view it while it is in draft status
+  * Published - publishes the page so that others can view it
+  * Once finished click on save changes to save the new page
