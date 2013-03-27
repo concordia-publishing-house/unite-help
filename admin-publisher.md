@@ -14,34 +14,33 @@
            * Delete - allows you to delete a page
            * Public -  makes the page public (viewable to everyone)
            * Private - makes the page private (viewable to members only)
-
           * To add a new category we click on the Add Category Icon
              * When we click on this it adds a folder under the Active Menu Items
              * From here we give the folder a name and drag it to the appropriate menu item 
 
 (Insert Add Page Image)
 
-          * To add a new page we click on the Add Page Icon
-               * This causes a new window to open.
-               * We have a few options to choose from:
-                   * Blank Page - this is a blank page with no formatting set
-                   * Feed Page -  used for blogs
-                   * About Page - creates an about you page with some basic formatting
-          * Once we have selected our page we click on Create Page to create that new page.
-          * Once that is done it will take us to our newly created page to for editing. (Note: Edit Mode must be turned On)
+   * To add a new page we click on the Add Page Icon
+       * This will open a new window
+      * We have a few options to choose from:
+        * Blank Page - this is a blank page with no formatting set
+         * Feed Page -  used for blogs
+         * About Page - creates an about you page with some basic formatting
+  * Once we have selected our page we click on Create Page to create that new page.
+  * Once that is done it will take us to our newly created page to for editing. (Note: Edit Mode must be turned On)
 
 (Insert Image of New Page)
 
-          * Once our new page opens we will be able to chose the format of the page
-          * There are six options that we can choose from:
+  * Once our new page opens we will be able to chose the format of the page
+  * There are six options that we can choose from:
 
 (Image of the Format Options)
 
-          * Clicking on the Gear Icon will bring up an edit page which allows up to make some changes
+  * Clicking on the Gear Icon will bring up an edit page which allows up to make some changes
 
 (Insert Edit Page Image)
 
-          * URL - this allows us to change the name of the page (Not the URL)
-          * Draft -  the page will not be available for others to view it while it is in draft status
-          * Published - publishes the page so that others can view it
-          * Once finished click on save changes to save the new page
+   * URL - this allows us to change the name of the page (Not the URL)
+   * Draft -  the page will not be available for others to view it while it is in draft status
+   * Published - publishes the page so that others can view it
+* Once finished click on save changes to save the new page
