@@ -8,6 +8,8 @@
       * Delete - deletes that theme
       * Reinstall - re installs the selected theme 
 
+      * 
+
 * Customize - allows you to customize the selected theme
 
 (Insert customize theme page image)
