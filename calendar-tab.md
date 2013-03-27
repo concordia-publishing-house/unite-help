@@ -1,7 +1,7 @@
 - Calendar Page
 
 (Insert Tool Bar Image)
-(http://unite-production.s3.amazonaws.com/tenants/christcommunitychurch/pictures/461/iStock_000011628228Small.jpg "Optional title")
+![Alt text](http://unite-production.s3.amazonaws.com/tenants/christcommunitychurch/pictures/461/iStock_000011628228Small.jpg "Optional title")
 
 
   * The Calendar Page displays any events that you have created within 360 Unite or events from your Church 360 Members
