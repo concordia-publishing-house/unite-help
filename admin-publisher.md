@@ -37,10 +37,11 @@
 (Image of the Format Options)
 
   * Clicking on the Gear Icon will bring up an edit page which allows up to make some changes
+   * URL - this allows us to change the name of the page (Not the URL)
+   * Draft -  the page will not be available for others to view it while it is in draft status
+   * Published - publishes the page so that others can view it
 
-(Insert Edit Page Image)
-
-* URL - this allows us to change the name of the page (Not the URL)
-* Draft -  the page will not be available for others to view it while it is in draft status
-* Published - publishes the page so that others can view it
-* Once finished click on save changes to save the new page
+(Insert Edit page image)
+  
+  * Once finished click on save changes to save the new page
+  
