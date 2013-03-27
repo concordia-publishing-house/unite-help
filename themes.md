@@ -3,11 +3,10 @@
 (Insert Themes/Browse page image)
 
 * Browse - shows the available themes that can be selected
-      * Actions for selected theme
-      * Save As - saves changes made to the theme
-      * Delete - deletes that theme
-      * Reinstall - re installs the selected theme 
-
+*  Actions for selected theme
+* Save As - saves changes made to the theme
+* Delete - deletes that theme
+* Reinstall - re installs the selected theme 
 * Customize - allows you to customize the selected theme
 
 (Insert customize theme page image)
