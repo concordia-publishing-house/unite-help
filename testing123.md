@@ -3,5 +3,3 @@
 <a href="/images/testing123123123.jpg" rel="some text"><img src="/images/testing123123123.jpg" alt="" /></a>
 
 ![github test](https://github.com/concordia-publishing-house/united-help/raw/master/src/common/images/testing123123123.png "raptor/shark")
-
-https://github.com/concordia-publishing-house/unite-help
