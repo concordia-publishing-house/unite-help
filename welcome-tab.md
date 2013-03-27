@@ -1,6 +1,6 @@
 - Welcome Page
 
-(Insert Welcome page Image)
+(Insert toolbar Image)
 
 * Unite Home Page
 * Displays the following:
