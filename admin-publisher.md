@@ -2,22 +2,22 @@
 
 (Insert Pages Admin Page)
 
-     * Clicking on Pages allows us to make changes to our pages.
-     * There are three sections:
-          * Active Menu Items - Shows all active pages that are currently being used
-          * Available Menu Items - Shows any pages that you have created.
-          * Actions for Selected Pages
-              * Add Category - allows us to add a new category to our pages
-              * Add Page - allows us to add a new page
-              * Publish - publishes the page so that others can view it
-              * Make Draft -  changes the pages status to draft (not viewable to the public)
-              * Delete - allows you to delete a page
-              * Public -  makes the page public (viewable to everyone)
-              * Private - makes the page private (viewable to members only)
+   * Clicking on Pages allows us to make changes to our page.
+   * There are three sections:
+     * Active Menu Items - Shows all active pages that are currently being used
+     * Available Menu Items - Shows any pages that you have created.
+     * Actions for Selected Pages
+         * Add Category - allows us to add a new category to our pages
+           * Add Page - allows us to add a new page
+           * Publish - publishes the page so that others can view it
+           * Make Draft -  changes the pages status to draft (not viewable to the public)
+           * Delete - allows you to delete a page
+           * Public -  makes the page public (viewable to everyone)
+           * Private - makes the page private (viewable to members only)
 
           * To add a new category we click on the Add Category Icon
-               * When we click on this it adds a folder under the Active Menu Items
-               * From here we give the folder a name and drag it to the appropriate menu item 
+             * When we click on this it adds a folder under the Active Menu Items
+             * From here we give the folder a name and drag it to the appropriate menu item 
 
 (Insert Add Page Image)
 
