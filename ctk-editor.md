@@ -1,10 +1,11 @@
 #CTK Editor
 
-(Insert Image of the CTK Editor)
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/EditorBar.JPG "")
 
 * Allows you to paste information as plain text or from word
 
-(Insert PasteasPlainText and PastefromWord.jpg)
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/PasteasPlainText.JPG "")
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/PastefromWord.JPG "")
 
 * Copy - used to copy text
 * Cut - used to cut text
@@ -12,49 +13,55 @@
 * Link - gives you link options
 * A page or feed in my site
 
-(Insert apageorfeedinmysite.jpg)
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/apageorfeedonmysite.JPG "")
 
 * Any URL
 
-(insert anyurl.jpg)
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/AnyLink.JPG "")
+
 
 * An anchor within this document
  
-(Insert ananchorwithinthisdocument.jpg)
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/ananchorwithinthisdocument.JPG "")
 
 * A file that users can Download
 
-(Insert afilethatuserscandownload.jpg)
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/afilethatusercandownload.JPG "")
 
 * An Email Address
 
-(insert anemailaddress.jpg)
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/anemailaddress.JPG "")
 
 * Unlink - used to unlink an item
 * Anchor - used to enter Anchor names
 
-(Insert anchorproperties.jpg)
-
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/anchorproperties.JPG "")
 
 
 * Image - used to add images
 
-(Insert selectanimage.jpg and ipadvanced.jpg)
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/Selectanimage.JPG "")
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/ipadvanced.JPG "")
  
 * Audio - used to add audio
 
-(Insert audio.jpg)
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/audio.JPG "")
+
 
 * Video - used to add video
 
-(Insert 
+(Insert video.jpg)
 
 * Embed Media - used to add media (YouTube)
+
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/embedmedia.JPG "")
+
+
 * Table - used to create/add a table
 * Horizontal Line - used to enter a horizontal line
 * Special Character - used to enter special characters
 
-(Insert SelectSpecialCharacter.jpg)
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/selectspecialcharacter.JPG "")
 
 * Format - used to change the format
      * A - changes the text color
