@@ -20,6 +20,7 @@
 * Table - used to create/add a table
 * Horizontal Line - used to enter a horizontal line
 * Special Character - used to enter special characters
+(Insert SelectSpecialCharacter.jpg)
 * Format - used to change the format
      * A - changes the text color
      * B - changes the font to bold
