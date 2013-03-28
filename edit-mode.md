@@ -1,6 +1,4 @@
--Edit Mode 
-     * Allows you to edit pages
-     * Static Pages and Feed pages are the only pages that are able to be edited
+-Edit Mode
 
 * Static Pages
 
