@@ -1,4 +1,4 @@
--User Settings
+# User Settings
 
 (Insert User Settings Image Page)
 
