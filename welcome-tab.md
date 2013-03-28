@@ -1,6 +1,6 @@
 # Welcome Page
 
-(Insert Welcome Image)
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/Welcome.JPG "")
 
 * Unite Home Page
 * Displays the following:
