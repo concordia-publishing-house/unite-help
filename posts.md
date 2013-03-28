@@ -1,6 +1,6 @@
 # Posts
 
-(Insert Posts Page Image)
+(Insert posts.jpg)
 
 * Displays any posts that we have created
      * Shows the current feed
