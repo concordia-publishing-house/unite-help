@@ -1,8 +1,6 @@
 # Groups
 
-(Insert tool bar image)
-
-   * The Groups page displays any groups that you have created
+* The Groups page displays any groups that you have created
 
 (Insert Groups Image)
 
