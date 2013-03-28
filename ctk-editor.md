@@ -50,7 +50,7 @@
 
 * Video - used to add video
 
-(Insert video.jpg)
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/addvideo.JPG "")
 
 * Embed Media - used to add media (YouTube)
 
@@ -61,7 +61,7 @@
 * Horizontal Line - used to enter a horizontal line
 * Special Character - used to enter special characters
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/selectspecialcharacter.JPG "")
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/SelectSpecialCharacter.JPG "")
 
 * Format - used to change the format
      * A - changes the text color
