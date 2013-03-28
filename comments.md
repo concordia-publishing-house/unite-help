@@ -1,6 +1,6 @@
 # Comments
 
-(Insert Comments page Image)
+(Insert managecomments.jpg)
 
 * Allows you to manage any comments that have been posted
 * Actions for selected comments
