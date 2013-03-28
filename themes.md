@@ -1,4 +1,4 @@
--Themes (Administrator Only)
+# Themes (Administrator Only)
 
 (Insert Themes/Browse page image)
 
