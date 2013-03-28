@@ -1,4 +1,4 @@
--Settings (Administrator Only)
+# Settings (Administrator Only)
 
 (Insert Image Account Settings Page)
 
