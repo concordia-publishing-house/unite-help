@@ -1,6 +1,6 @@
 # Calendar Page
 
-  * The Calendar Page displays any events that you have created within 360 Unite or events from your Church 360 Members
+  * The Calendar Page displays any events that you have created within 360 Unite or events from your Church 360 Members and allows us to create new events.
 
 (Insert Calendar.jpg)
 
@@ -31,3 +31,6 @@
 
    * Calendars that are specific to Church 360 Members can not be deleted.
  
+* New events - used to create new events
+
+(Insert newevent.jpg)
