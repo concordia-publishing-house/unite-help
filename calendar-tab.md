@@ -2,13 +2,13 @@
 
   * The Calendar Page displays any events that you have created within 360 Unite or events from your Church 360 Members
 
-(Insert Calendar Image)
+(Insert Calendar.jpg)
 
    * Clicking on the Welcome Link will take you to your Welcome Page
    * Clicking on the Settings Link will take you to the Settings page
    * From here you will be able to select which Calendars you want to display.
 
-(Image of Settings Page)
+(Insert calendarSettings.jpg)
 
    * Options Include
     * Baptisms
@@ -27,7 +27,7 @@
     * Worship
     * Some Events can be deleted.  To do this you will click to the right of the Calendar you wish to delete then press delete.
 
-(Insert Image of this save/delete/cancel Box)
+(Insert savedeletecancel.jpg)
 
    * Calendars that are specific to Church 360 Members can not be deleted.
  
