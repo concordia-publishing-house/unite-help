@@ -2,13 +2,14 @@
 
   * The Calendar Page displays any events that you have created within 360 Unite or events from your Church 360 Members and allows us to create new events.
 
-(Insert Calendar.jpg)
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/calendar.JPG "")
+
 
    * Clicking on the Welcome Link will take you to your Welcome Page
    * Clicking on the Settings Link will take you to the Settings page
    * From here you will be able to select which Calendars you want to display.
 
-(Insert calendarSettings.jpg)
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/calendarsettings.JPG "")
 
    * Options Include
     * Baptisms
@@ -27,13 +28,13 @@
     * Worship
     * Some Events can be deleted.  To do this you will click to the right of the Calendar you wish to delete then press delete.
 
-(Insert savedeletecancel.jpg)
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/savedeletecancel.JPG "")
 
 * Calendars that are specific to Church 360 Members can not be deleted.
  
 * New events - used to create new events
 
-(Insert newevent.jpg)
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/newevent.JPG "")
 
 * Title - enter the title of your new event
 * Calendar - choose which Calendar that you want this event to display under
