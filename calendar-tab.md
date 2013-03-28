@@ -29,8 +29,15 @@
 
 (Insert savedeletecancel.jpg)
 
-   * Calendars that are specific to Church 360 Members can not be deleted.
+* Calendars that are specific to Church 360 Members can not be deleted.
  
 * New events - used to create new events
 
 (Insert newevent.jpg)
+
+* Title - enter the title of your new event
+* Calendar - choose which Calendar that you want this event to display under
+* Start Date/End Date - Choose the event start/end dates
+* Time - choose the event time
+* Repeats - choose whether or not the event repeats
+* Summary - used to enter a summary for the event
