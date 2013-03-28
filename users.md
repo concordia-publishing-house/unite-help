@@ -1,6 +1,6 @@
 # Users
 
-(Insert Users/List Page Image)
+(Insert userslistpage.jpg)
 
 * Lists - displays your current 360 Unite users
 * Actions for selected users
@@ -13,7 +13,7 @@
      * Deleted - will delete any users that you have selected
 * Invite - will allow you to invite new users to your site
 
-(Insert Users/Invite image)
+(Insert usersinvitepage)
 
 * Invite a new user
      * This allows us to enter a First Name, Last Name, and Email
