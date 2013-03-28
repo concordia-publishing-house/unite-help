@@ -1,6 +1,6 @@
 # User Settings
 
-(Insert User Settings Image Page)
+(Insert settingsuser.jpg))
 
 * Allows you to update your account information.
      * Email
