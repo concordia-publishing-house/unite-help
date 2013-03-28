@@ -2,12 +2,12 @@
 
 * The Groups page displays any groups that you have created
 
-(Insert Groups Image)
+(Insert Groups.jpg)
 
   * Clicking on the Welcome Link will take you to the Welcome Page
   * Clicking on Create a new group will open a new window to allow you to create a new group.
 
-(New Group Window Image)
+(Insert newgroup.jpg)
 
   * Options Include
    * Title - Group Title
