@@ -1,7 +1,5 @@
 # Members
 
-(Insert Members Tool bar image)
-
   * Clicking on the Welcome Link will take you to your Welcome Page
   * The members page displays the current list of your Church 360 Members and Unite Users
   * Search Box - allows you to search for members in the list.
