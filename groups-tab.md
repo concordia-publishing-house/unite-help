@@ -2,12 +2,12 @@
 
 * The Groups page displays any groups that you have created
 
-(Insert Groups.jpg)
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/Groups.JPG "")
 
   * Clicking on the Welcome Link will take you to the Welcome Page
   * Clicking on Create a new group will open a new window to allow you to create a new group.
 
-(Insert newgroup.jpg)
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/newgroup.JPG "")
 
   * Options Include
    * Title - Group Title
