@@ -2,8 +2,8 @@
  
 * Search Box - allows you to search for pages on your site
 
-(Insert searchthissite.jpg)
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/searchthissite.JPG "")
 
 * Feedback - allows you to leave feedback related to the site
 
-(Insert Feedback.jpg)
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/Feedback.JPG "")
