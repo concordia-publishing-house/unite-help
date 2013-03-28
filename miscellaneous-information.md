@@ -1,4 +1,4 @@
-- Miscellaneous Information
+-Miscellaneous Information
  
 * Search Box - allows you to search for pages on your site
 
