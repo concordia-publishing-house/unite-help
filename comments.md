@@ -1,6 +1,6 @@
 # Comments
 
-(Insert Comments page Image)
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/managecomments.JPG "")
 
 * Allows you to manage any comments that have been posted
 * Actions for selected comments
