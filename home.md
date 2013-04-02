@@ -1,3 +1,1 @@
 # Unite Help
-
-[[sidebar]]
