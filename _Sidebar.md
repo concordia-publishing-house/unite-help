@@ -1,15 +1,29 @@
-[[active-menu-items|Active Menu Items]]
-[[calendar-tab|Calendar Tab]]
-[[comments|Comments]]
-[[ctk-editor|CTK Editor]]
-[[edit-mode|Edit Mode]]
-[[groups-tab| Groups Tab]]
-[[members-tab|Members Tab]]
-[[miscellaneous-information|Miscellaneous Information]]
-[[posts|Posts]]
-[[sermons-tab|Sermons Tab]]
-[[settings|Settings]]
-[[themes|Themes]]
-[[user-settings|User Settings]]
-[[users|Users]]
-[[welcome-tab|Welcome Tab]]
+[[active-menu-items|Active Menu Items]]  
+
+[[calendar-tab|Calendar Tab]]  
+
+[[comments|Comments]]  
+
+[[ctk-editor|CTK Editor]]  
+
+[[edit-mode|Edit Mode]]  
+
+[[groups-tab| Groups Tab]]  
+
+[[members-tab|Members Tab]]  
+
+[[miscellaneous-information|Miscellaneous Information]]  
+
+[[posts|Posts]]  
+
+[[sermons-tab|Sermons Tab]]  
+
+[[settings|Settings]]  
+
+[[themes|Themes]]  
+
+[[user-settings|User Settings]]  
+
+[[users|Users]]  
+
+[[welcome-tab|Welcome Tab]]  
