@@ -1,4 +1,4 @@
-[[active-menu-items|Active Menu Items]]  
+[[Active Menu Items|active-menu-items]]  
 
 [[calendar-tab|Calendar Tab]]  
 
