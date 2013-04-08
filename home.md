@@ -28,4 +28,4 @@
 
 [[Users|users]]
 
-[[welcome-tab|Welcome Tab]]
+[[Welcome Tab|welcome-tab]]
