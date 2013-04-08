@@ -1,6 +1,6 @@
 # Unite Help
 
-[[Active Menu Items|active-menu-items]]
+[[Active Menu Items|Active Menu Items]]
 
 [[Calendar Tab|calendar-tab]]
 
