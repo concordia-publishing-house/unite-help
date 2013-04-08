@@ -1,29 +1,29 @@
 [[Active Menu Items|active-menu-items]]  
 
-[[calendar-tab|Calendar Tab]]  
+[[Calendar Tab|calendar-tab]]  
 
-[[comments|Comments]]  
+[[Comments|comments]]  
 
-[[ctk-editor|CTK Editor]]  
+[[CTK Editor|ctk-editor]]  
 
-[[edit-mode|Edit Mode]]  
+[[Edit Mode|edit-mode]]  
 
-[[groups-tab| Groups Tab]]  
+[[Groups Tab|groups-tab]]  
 
-[[members-tab|Members Tab]]  
+[[Members Tab|members-tab]]  
 
-[[miscellaneous-information|Miscellaneous Information]]  
+[[Miscellaneous Information|miscellaneous-information]]  
 
-[[posts|Posts]]  
+[[Posts|posts]]  
 
-[[sermons-tab|Sermons Tab]]  
+[[Sermons Tab|sermons-tab]]  
 
-[[settings|Settings]]  
+[[Settings|settings]]  
 
-[[themes|Themes]]  
+[[Themes|themes]]  
 
-[[user-settings|User Settings]]  
+[[User Settings|user-settings]]  
 
-[[users|Users]]  
+[[Users|users]]  
 
-[[welcome-tab|Welcome Tab]]  
+[[Welcome Tab|welcome-tab]]  
