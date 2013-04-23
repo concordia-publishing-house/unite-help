@@ -25,7 +25,7 @@
       * We have a few options to choose from:
          * Blank Page - this is a blank page with no formatting set
          * Feed Page -  used for blogs
-         * About Page - creates an about you page with some basic formatting
+         * Static Pages - these are pages with different preset information already built in.
    * Once we have selected our page we click on Create Page to create that new page.
    * Once that is done it will take us to our newly created page to for editing. (Note: Edit Mode must be turned On)
 
