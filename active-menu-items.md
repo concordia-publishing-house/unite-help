@@ -1,6 +1,6 @@
 #Pages (Administrator/Publisher)
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/pageasdmin.JPG "r")
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/pageasdmin.JPG)
 
 * Clicking on Pages allows us to make changes to our page.
 * There are three sections:
@@ -18,7 +18,7 @@
        * When we click on this it adds a folder under the Active Menu Items
        * From here we give the folder a name and drag it to the appropriate menu item
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/addpage.JPG "whatever")
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/addpage.JPG)
 
   * To add a new page we click on the Add Page Icon
             * This will open a new window
