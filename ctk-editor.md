@@ -1,4 +1,4 @@
-#CTK Editor
+#CK Editor
 
 ![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/EditorBar.JPG "")
 
