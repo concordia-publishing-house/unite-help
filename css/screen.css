@@ -1,78 +1,41 @@
-/****************************************************************************/
-/* Base
-/****************************************************************************/
-
-* {
-  margin: 0;
-  padding: 0;
-}
-
-html, body {
-  height: 100%;
-  color: black;
-}
-
-body {
-  background-color: white;
-  font: 13.34px helvetica, arial, freesans, clean, sans-serif;
-  *font-size: small;
-}
-
-table {
-  font-size: inherit;
-  font: 100%;
-}
-
-select, input[type=text], input[type=password], input[type=image], textarea {
-  font: 99% helvetica, arial, freesans, sans-serif;
-}
-select, option {
-  padding: 0 .25em;
-}
-optgroup {
-  margin-top: .5em;
-}
-
-input.text {
-  padding: 1px 0;
-}
-pre, code {
-  font: 12px Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
-}
-
-body * {
-  line-height: 1.4em;
-}
-
-p{ margin:1em 0; }
-
-img {
-  border: 0;
-}
-
-abbr {
-  border-bottom: none;
-}
-
-.clearfix:after {
-    content: ".";
-    display: block;
-    height: 0;
-    clear: both;
-    visibility: hidden;
-}
-* html .clearfix {height: 1%;}
-.clearfix {display:inline-block;}
-.clearfix {display: block;}
-
-/* always show vertical scroll bar to prevent page jitter */
-html {overflow-y: scroll;}
-
-.site {
+.container {
   margin: 2em auto 0 auto;
   width: 920px;
   padding: 0 15px;
 }
+
+.footer {
+  clear: both;
+  margin-top: 3em;
+  border-top: 4px solid #e6e6e6;
+  padding-top: .3em;
+  overflow: hidden;
+}
+
+.sidebar {
+  border-left: 4px solid #e6e6e6;
+  margin: 2.1em 0 0 0;
+  padding-left: 1em;
+}
+
+.sidebar h3 {
+  margin: 0 0 .5em 0;
+}
+
+.sidebar ul {
+  list-style-type: none;
+  margin: 0;
+  color: #888;
+
+}
+
+.sidebar ul li {
+  padding-left: 12px;
+  background: white url(/images/modules/guides/sidebar/bullet_blue.png) -4px 0 no-repeat;
+  margin: .2em 0;
+}
+
+
 
 /****************************************************************************/
 /* Guides
@@ -134,40 +97,11 @@ html {overflow-y: scroll;}
 
     /* sidebar */
 
-    #guides .guide .sidebar {
-      float: right;
-      width: 15em;
-      border-left: 4px solid #e6e6e6;
-      margin: 2.1em 0 0 0;
-      padding-left: 1em;
-    }
 
-      #guides .guide .sidebar h3 {
-        margin: 0 0 .5em 0;
-      }
-
-      #guides .guide .sidebar ul {
-        list-style-type: none;
-        margin: 0;
-        color: #888;
-
-      }
-
-      #guides .guide .sidebar ul li {
-        padding-left: 12px;
-        background: white url(/images/modules/guides/sidebar/bullet_blue.png) -4px 0 no-repeat;
-        margin: .2em 0;
-      }
 
   /* admin */
 
-  #guides .admin {
-    clear: both;
-    margin-top: 3em;
-    border-top: 4px solid #e6e6e6;
-    padding-top: .3em;
-    overflow: hidden;
-  }
+
 
   /* write */
 
