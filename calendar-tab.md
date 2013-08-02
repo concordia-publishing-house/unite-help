@@ -35,7 +35,12 @@
 * You can also include Events from your Google Calendar
 * Clicking on the Check-box will open a new window asking you to log in to your Google account.
 ![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/GoogleSignIn.JPG "")
- 
+ * To remove Google Calendar Access from 360 Unite Site
+* Log in to your Google Account
+* Click on Accounts then click on Security
+* Under Connected applications and sites Click on Review permissions
+* Once you are on that screen Click on Revoke Access to remove Unite permission to your Google Calendar
+
 * New events - used to create new events
 
 ![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/newevent.JPG "")
