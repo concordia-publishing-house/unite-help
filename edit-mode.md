@@ -30,4 +30,4 @@
 
 ![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/editmodefeed.JPG "")
 
-* The only part that is able to be edited on a few page is the page name.
+* The only part that is able to be edited on a feed page is the page name.
