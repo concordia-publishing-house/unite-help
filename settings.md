@@ -26,9 +26,9 @@
 * Domain Box
      * Allows you to enter your domain here
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/googleanalytic.JPG "")
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/SettingsGoogleAnalytics.JPG "")
 
 * Google Analytics is a free tool that helps you serve your Unite site's visitors better. You can see how many people are visiting your site for the first time, and understand how well you are reaching out to them by seeing what information they're looking for most.
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/GoogleAnalytics.JPG "")
      * Enable Google Analytics Check Box - enables Google Analytics
      * Account Number - enter your Google Analytics account number
-
