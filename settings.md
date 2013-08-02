@@ -1,6 +1,6 @@
 # Settings (Administrator Only)
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/SettingsAccount.JPG "")
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/SettingsAccount.jpg "")
 
 * Account - shows our account information
      * Usage - shows the total amount of data that you are currently using out of your allotted amount
