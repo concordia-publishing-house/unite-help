@@ -1,6 +1,6 @@
 # Themes (Administrator Only)
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/ThemesBrowse.jpg"")
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/ThemesBrowse.png)
 
  * Browse - shows the available themes that can be selected
   * Actions for selected theme
