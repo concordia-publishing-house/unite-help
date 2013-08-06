@@ -1,6 +1,6 @@
 # Themes (Administrator Only)
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/ThemesBrowse.png "")
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/ThemesBrowse.jpg "")
 
  * Browse - shows the available themes that can be selected
   * Actions for selected theme
@@ -9,7 +9,7 @@
   * Reinstall - re installs the selected theme
  * Customize - allows you to customize the selected theme
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/ThemesCustomize.png "")
+![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/ThemesCustomize.png"")
 
 * Presets - allows you to choose between several preset conditions (Note: only certain themes contain presets)
 * Banner - allows you to add a banner image
