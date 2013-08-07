@@ -25,6 +25,7 @@
 ![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/ananchorwithinthisdocument.JPG "")
 
 * A file that users can Download
+* You have the ability to Drag and Drop files into the window or do a search by click on Upload
 
 ![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/afilethatusercandownload.JPG "")
 
@@ -39,11 +40,13 @@
 
 
 * Image - used to add images
+* Images can be added by using the Drag and Drop feature or by clicking on Upload
 
 ![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/Selectanimage.JPG "")
 ![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/ipadvanced.JPG "")
  
 * Audio - used to add audio
+* Audio files can be added by using the Drag and Drop feature or by using Upload 
 
 ![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/audio.JPG "")
 
