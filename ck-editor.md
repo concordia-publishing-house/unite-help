@@ -61,14 +61,13 @@
 
 ![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/embedmedia.JPG "")
 
-
 * Table - used to create/add a table
 * Horizontal Line - used to enter a horizontal line
 * Special Character - used to enter special characters
 
 ![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/SelectSpecialCharacter.JPG "")
 * Source - shows your pages HTML Code
-     * Changes made in here will affect your page (edit with caution)
+     * Changes made in here will effect your page (edit with caution)
 ![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/CKEditorSource.png "")
 * Format - used to change the format
      * A - changes the text color
