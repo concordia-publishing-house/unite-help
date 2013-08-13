@@ -66,6 +66,7 @@
 * Special Character - used to enter special characters
 
 ![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/SelectSpecialCharacter.JPG "")
+
 * Source - shows your pages HTML Code
      * Changes made in here will effect your page (edit with caution)
 ![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/CKEditorSource.png "")
