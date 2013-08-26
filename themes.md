@@ -9,7 +9,7 @@
   * Reinstall - re installs the selected theme
  * Customize - allows you to customize the selected theme
 
-![Alt Text](images/ThemesCustomize.png"")
+![Alt Text](images/ThemesCustomize.png "")
 
 * Presets - allows you to choose between several preset conditions (Note: only certain themes contain presets)
 * Banner - allows you to add a banner image
