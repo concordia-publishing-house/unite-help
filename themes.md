@@ -1,6 +1,6 @@
 # Themes (Administrator Only)
 
-![Alt Text](images/ThemesBrowse.png)
+![Alt Text](images/ThemesBrowse.png "")
 
  * Browse - shows the available themes that can be selected
   * Actions for selected theme
