@@ -11,7 +11,7 @@
      * Address
      * Time Zone
 
-![Alt Text](images/SettingsCalendar.png "")
+![Alt Text](images/SettingsCalendar.jpg "")
 
 * Calendars - allows us to create a new calendar and chose which calendars we want to have displayed.
      * Certain calendars can be deleted. (default calendars are not able to be deleted)
