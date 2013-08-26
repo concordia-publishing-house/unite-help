@@ -1,6 +1,6 @@
 # Users
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/userslistpage.JPG "")
+![Alt Text](images/userslistpage.JPG "")
 
 * Lists - displays your current 360 Unite users
 * Actions for selected users
@@ -13,7 +13,7 @@
      * Deleted - will delete any users that you have selected
 * Invite - will allow you to invite new users to your site
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/usersinvitepage.JPG "")
+![Alt Text](images/usersinvitepage.JPG "")
 
 * Invite a new user
      * This allows us to enter a First Name, Last Name, and Email

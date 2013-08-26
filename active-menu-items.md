@@ -1,6 +1,6 @@
 #Pages (Administrator/Publisher)
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/pageasdmin.JPG "")
+![Alt Text](images/pageasdmin.JPG "")
 
 * Clicking on Pages allows us to make changes to our page.
 * There are three sections:
@@ -18,7 +18,7 @@
        * When we click on this it adds a folder under the Active Menu Items
        * From here we give the folder a name and drag it to the appropriate menu item
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/addpage.JPG "")
+![Alt Text](images/addpage.JPG "")
 
   * To add a new page we click on the Add Page Icon
             * This will open a new window
@@ -29,12 +29,12 @@
    * Once we have selected our page we click on Create Page to create that new page.
    * Once that is done it will take us to our newly created page to for editing. (Note: Edit Mode must be turned On)
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/newpage.JPG "")
+![Alt Text](images/newpage.JPG "")
 
   * Once our new page opens we will be able to chose the format of the page
   * There are six options that we can choose from:
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/formatoptions.JPG "")
+![Alt Text](images/formatoptions.JPG "")
 
 
   * Clicking on the Gear Icon will bring up an edit page which allows up to make some changes
@@ -42,6 +42,6 @@
    * Draft -  the page will not be available for others to view it while it is in draft status
    * Published - publishes the page so that others can view it
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/editpage.JPG "")
+![Alt Text](images/editpage.JPG "")
 
   * Once finished click on save changes to save the new page

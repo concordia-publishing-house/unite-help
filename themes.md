@@ -1,6 +1,6 @@
 # Themes (Administrator Only)
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/ThemesBrowse.png)
+![Alt Text](images/ThemesBrowse.png)
 
  * Browse - shows the available themes that can be selected
   * Actions for selected theme
@@ -9,14 +9,14 @@
   * Reinstall - re installs the selected theme
  * Customize - allows you to customize the selected theme
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/ThemesCustomize.png"")
+![Alt Text](images/ThemesCustomize.png"")
 
 * Presets - allows you to choose between several preset conditions (Note: only certain themes contain presets)
 * Banner - allows you to add a banner image
     * Browser - will open a new window that will allow you to select your banner image (Note: only certain themes have this option)
     * We also have to option to drag and drop files as well
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/bannerselectafile.JPG "")
+![Alt Text](images/bannerselectafile.JPG "")
 
 * Customization options: (uses a color wheel to set the colors)
   * Ribbon Color
@@ -31,7 +31,7 @@
 
 * Advanced Options - allows you to make changes to the selected theme
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/themesadvance.JPG "")
+![Alt Text](images/themesadvance.JPG "")
 
 
 * Resources - shows the files/folders that are related to theme (depends on the selected theme)

@@ -1,11 +1,11 @@
 #CK Editor
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/EditorBar.JPG "")
+![Alt Text](images/EditorBar.JPG "")
 
 * Allows you to paste information as plain text or from word
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/PasteasPlainText.JPG "")
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/PastefromWord.JPG "")
+![Alt Text](images/PasteasPlainText.JPG "")
+![Alt Text](images/PastefromWord.JPG "")
 
 * Copy - used to copy text
 * Cut - used to cut text
@@ -13,63 +13,63 @@
 * Link - gives you link options
 * A page or feed in my site
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/apageorfeedonmysite.JPG "")
+![Alt Text](images/apageorfeedonmysite.JPG "")
 
 * Any URL
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/AnyLink.JPG "")
+![Alt Text](images/AnyLink.JPG "")
 
 
 * An anchor within this document
  
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/ananchorwithinthisdocument.JPG "")
+![Alt Text](images/ananchorwithinthisdocument.JPG "")
 
 * A file that users can Download
 * You have the ability to Drag and Drop files into the window or do a search by clicking on Upload
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/afilethatusercandownload.JPG "")
+![Alt Text](images/afilethatusercandownload.JPG "")
 
 * An Email Address
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/anemailaddress.JPG "")
+![Alt Text](images/anemailaddress.JPG "")
 
 * Unlink - used to unlink an item
 * Anchor - used to enter Anchor names
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/anchorproperties.JPG "")
+![Alt Text](images/anchorproperties.JPG "")
 
 
 * Image - used to add images
 * Images can be added by using the Drag and Drop feature or by clicking on Upload
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/Selectanimage.JPG "")
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/ipadvanced.JPG "")
+![Alt Text](images/Selectanimage.JPG "")
+![Alt Text](images/ipadvanced.JPG "")
  
 * Audio - used to add audio
 * Audio files can be added by using the Drag and Drop feature or by clicking on Upload 
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/audio.JPG "")
+![Alt Text](images/audio.JPG "")
 
 
 * Video - used to add video
 * Video files can be added by using the Drag and Drop feature or by clicking on Upload
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/addvideo.JPG "")
+![Alt Text](images/addvideo.JPG "")
 
 * Embed Media - used to add media (YouTube)
 * Paste your code in the box and click OK
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/embedmedia.JPG "")
+![Alt Text](images/embedmedia.JPG "")
 
 * Table - used to create/add a table
 * Horizontal Line - used to enter a horizontal line
 * Special Character - used to enter special characters
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/SelectSpecialCharacter.JPG "")
+![Alt Text](images/SelectSpecialCharacter.JPG "")
 
 * Source - shows your pages HTML Code
      * Changes made in here will effect your page (edit with caution)
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/CKEditorSource.png "")
+![Alt Text](images/CKEditorSource.png "")
 * Format - used to change the format
      * A - changes the text color
      * B - changes the font to bold

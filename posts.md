@@ -1,6 +1,6 @@
 # Posts
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/posts.JPG "")
+![Alt Text](images/posts.JPG "")
 
 * Displays any posts that we have created
      * Shows the current feed

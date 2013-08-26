@@ -4,11 +4,11 @@
   * The members page displays the current list of your Church 360 Members and Unite Users
   * Search Box - allows you to search for members in the list.
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/members.JPG "")
+![Alt Text](images/members.JPG "")
 
   * Clicking the Invite members will open a new window and allow you to invite more users.
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/inviteuser.JPG "")
+![Alt Text](images/inviteuser.JPG "")
 
 
  * Options on this page include:

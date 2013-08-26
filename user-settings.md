@@ -1,6 +1,6 @@
 # User Settings
 
-![Alt Text](https://github.com/concordia-publishing-house/unite-help/raw/master//images/settingsuser.JPG "")
+![Alt Text](images/settingsuser.JPG "")
 
 * Allows you to update your account information.
      * Email
