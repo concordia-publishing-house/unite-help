@@ -1,6 +1,6 @@
 # Welcome Page
 
-![Alt Text](images/WelcomeTabHomePage.JPG "")
+![Alt Text](images/WelcomeTabHomePage.png "")
 
 * Unite Home Page
 * Displays the following:
