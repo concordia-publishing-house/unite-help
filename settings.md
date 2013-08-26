@@ -40,7 +40,9 @@
 * You will need to make sure that your Shepherds Staff has the latest Update installed from www.shepherdsstaff.org
 * Once that is done Log in to your Shepherds Staff and go to the Membership Module
 * Click on Tools > Church 360 Unite, then click on the Settings Tab
-![Alt Text](images/SettingsIntegrationStaffSync.JPG "")
+
+![Alt Text](images/SettingsIntegrationStaffSync.png "")
+
 * On this page you will need to enter your 360 Unite Token and Subdomain from your 360 Unite Settings/Integration Page and save the changes
 * Once that has been completed Click on the Synchronize Tab and Click the Sync icon to start the process
 * Once this has completed your membership information will be uploaded to your 360 Unite Site
