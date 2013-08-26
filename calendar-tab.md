@@ -40,7 +40,7 @@
 * Click on Accounts then click on Security
 * Under Connected applications and sites Click on Review permissions
 * Once you are on that screen Click on Revoke Access to remove Unite permission to your Google Calendar
-![Alt Text](images/GoogleRevokeAccess.JPG "")
+![Alt Text](images/GoogleRevokeAccess.png "")
 
 * New events - used to create new events
 
