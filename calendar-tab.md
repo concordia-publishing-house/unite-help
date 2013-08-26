@@ -34,7 +34,9 @@
 
 * You can also include Events from your Google Calendar
 * Clicking on the Check-box will open a new window asking you to log in to your Google account.
+
 ![Alt Text](images/GoogleSignIn.png "")
+
 * To remove Google Calendar Access from 360 Unite Site
 * Log in to your Google Account
 * Click on Accounts then click on Security
