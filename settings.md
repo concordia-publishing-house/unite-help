@@ -35,7 +35,9 @@
      * Enable Google Analytics Check Box - enables Google Analytics
      * Account Number - enter your Google Analytics account number
 * Integration
-![Alt Text](images/SettingsIntegration.JPG "")
+
+![Alt Text](images/SettingsIntegration.png "")
+
 * This feature allows you to Sync your Shepherd's Staff
 * You will need to make sure that your Shepherds Staff has the latest Update installed from www.shepherdsstaff.org
 * Once that is done Log in to your Shepherds Staff and go to the Membership Module
