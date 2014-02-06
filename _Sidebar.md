@@ -4,7 +4,7 @@
 
 [[Comments|comments]]  
 
-[[CTK Editor|ctk-editor]]  
+[[CK Editor|ck-editor]]  
 
 [[Edit Mode|edit-mode]]  
 
